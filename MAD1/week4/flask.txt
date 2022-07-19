@@ -1,0 +1,10 @@
+# week 4 screencast and assignment are all about Flask
+
+
+// PreActivity
+ 1038  python3 -m venv .experiment3-env
+ 1039  source .experiment3-env/bin/activate
+ 1040  which python
+ 1041  touch requirement.txt # add FLASK to install it
+ 1042  pip install -r requirement.txt # pull data from file and install it
+ 1043  pip freeze  # to show the install dependencies
